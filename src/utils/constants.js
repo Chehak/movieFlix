@@ -27,6 +27,3 @@ export const SUPPORTED_LANGUAGES = [
   { lang: "Hindi", val: "hindi" },
   { lang: "Spanish", val: "sp" },
 ];
-
-export const OPEN_AI_GPT_KEY =
-  "sk-proj-UzWnbEEOPigM18xbtJ2LT3BlbkFJiWATvznWqM9kCrKvuHFq";
